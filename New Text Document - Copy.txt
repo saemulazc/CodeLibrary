@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 test data
-=======
 data changes
->>>>>>> 8bfdba487f58604ec98335eeb451be0546d4be35
